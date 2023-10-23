@@ -1,0 +1,27 @@
+List interface extends Collection interface
+-its from 1.2 version and present in java.util pack
+-store collection elements in sequence
+-list accept duplicate values
+-follows insertion order
+-elements can be inserted or accessed by their index value
+-first index value in list is zero
+-list interface have methods from parent Collection interface as
+well as list have its own methods
+-list allows null values
+
+
+ArrayList
+ArrayList is class of CF,1.2,java.util
+-ArrayList is nothing but dynamic array
+-growable in nature
+-extends AbstarctList and implements List,RandomAccess,Clonable,Serializable
+-default capcity is 10
+-new cap=(3/2*old cap)+1
+-constructor
+	ArrayList()    //cap 10
+	ArrayList(int capcity) 
+	ArrayList(Collection c)
+-internally an ArrayList uses an Object[] arr which is an Array of Objects
+-if capacity is not given it creates ArrayList with default default
+
+

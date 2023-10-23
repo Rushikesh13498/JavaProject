@@ -1,6 +1,6 @@
 package com.staticdemos;
 
-import oops.Studentclass;
+import com.oops.Studentclass;
 
 public class OtherPackageStudent extends Studentclass {
 

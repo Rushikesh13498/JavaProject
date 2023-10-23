@@ -5,7 +5,7 @@ public class Q17 {
 
 	 int intVar = 0;
 
-	String strVar = "InnerClassExample"; private int intPvt = 4 ; public static int intStatic = 61; private  static String strPvtStatic = " java"; private  void printVar(){
+	static String strVar = "InnerClassExample"; private int intPvt = 4 ; public static int intStatic = 61; private  static String strPvtStatic = " java"; private  void printVar(){
 
 	System.out.println(intVar + " "+ strVar + " " + intPvt);
 

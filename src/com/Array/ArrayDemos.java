@@ -19,7 +19,10 @@ class Student{
 
 
 public class ArrayDemos {
+ 
+	
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          Student stud[]=new Student[3];

@@ -6,7 +6,7 @@ public class ToggleCase {
 	
 	public static void doToggleCase(String s) {
 		for(int i=0;i<s.length();i++) {
-			s.split(s);
+			s.split(" ");
 			int ch=s.charAt(i);
 			if(i==0) {
 			System.out.print(s.charAt(i));

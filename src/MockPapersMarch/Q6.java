@@ -19,6 +19,18 @@ public class Q6 {
 		}
 
 		}
+		public void display() {
+			// TODO Auto-generated method stub
+			
+		}
+		public void A() {
+			// TODO Auto-generated method stub
+			
+		}
+		public void display() {
+			// TODO Auto-generated method stub
+			
+		}
 		void B() throws Exception {
 		try {
 		str += "d";
